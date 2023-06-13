@@ -1,6 +1,6 @@
 # Trabalho freelancer de algoritmos e métricas
 
-Este trabalho refere-se a um freelancer que peguei na plataforma Workana para execução de um trabalho de mestrado. O trabalho consistia em escolher alguns datasets público e implementar diversos algoritmos assim como diversas métricas para para cada um deles. Segue os requisito para o trabalho:
+Este trabalho refere-se a um freelancer que peguei na plataforma Workana para execução de um trabalho de mestrado. O trabalho consistia em escolher alguns datasets público e implementar diversos algoritmos assim como diversas métricas para para cada um deles. Segue abaixo relacionado os requisitos para o trabalho conforme publicado na plataforma:
 
 ## Início
 
